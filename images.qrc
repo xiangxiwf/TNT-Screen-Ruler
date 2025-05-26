@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/close_24dp_1F1F1F_FILL0_wght400_GRAD0_opsz24.svg</file>
+        <file>icons/fit_screen_24dp_1F1F1F_FILL0_wght400_GRAD0_opsz24.svg</file>
+        <file>icons/keep_24dp_1F1F1F_FILL0_wght400_GRAD0_opsz24.svg</file>
+        <file>icons/remove_24dp_1F1F1F_FILL0_wght400_GRAD0_opsz24.svg</file>
+        <file>icons/zoom_in_24dp_1F1F1F_FILL0_wght400_GRAD0_opsz24.svg</file>
+        <file>icons/zoom_out_24dp_1F1F1F_FILL0_wght400_GRAD0_opsz24.svg</file>
+        <file>icons/keep_off_24dp_1F1F1F_FILL0_wght400_GRAD0_opsz24.svg</file>
+        <file>icons/icons8-github-logo-24.png</file>
+        <file>icons/favicon.ico</file>
+    </qresource>
+</RCC>
